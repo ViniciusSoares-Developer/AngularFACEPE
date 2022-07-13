@@ -9,7 +9,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         title: 'Covid Grafic',
         link: '/pages/dashboard',
         home: true,
-      }
+      },
     ],
   },
   {
@@ -20,7 +20,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
   {
     title: 'Register',
     icon: 'person-add-outline',
-    link: '/auth/register'
+    link: '/auth/register',
   },
   {
     title: 'More',
@@ -28,8 +28,8 @@ export const MENU_ITEMS: NbMenuItem[] = [
   },
   {
     title: 'Parceiros',
-    link: ''
-  }
+    link: '',
+  },
   // {
   //   title: 'IoT Dashboard',
   //   icon: 'home-outline',
